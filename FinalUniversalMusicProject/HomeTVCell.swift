@@ -10,6 +10,10 @@ import UIKit
 
 class HomeTVCell: UITableViewCell {
 
+    @IBOutlet weak var albumCoverImg: UIImageView!
+    @IBOutlet weak var songNameLabel: UILabel!
+    @IBOutlet weak var artistNameLabel: UILabel!
+    
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code

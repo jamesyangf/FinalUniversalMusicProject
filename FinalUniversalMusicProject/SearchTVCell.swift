@@ -1,5 +1,5 @@
 //
-//  SearchTVC.swift
+//  SearchTVCell.swift
 //  FinalUniversalMusicProject
 //
 //  Created by Tyler Yun on 3/2/17.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class SearchTVC: UITableViewCell {
+class SearchTVCell: UITableViewCell {
 
     @IBOutlet weak var albumArtwork: UIImageView!
     @IBOutlet weak var songLabel: UILabel!

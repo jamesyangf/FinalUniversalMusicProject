@@ -9,7 +9,9 @@
 import UIKit
 
 class UserTVCell: UITableViewCell {
-
+    @IBOutlet weak var artistImg: UIImageView!
+    @IBOutlet weak var artistTitle: UILabel!
+    
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code

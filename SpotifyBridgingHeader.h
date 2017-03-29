@@ -9,5 +9,7 @@
 #ifndef SpotifyBridgingHeader_h
 #define SpotifyBridgingHeader_h
 
+#import <SpotifyAuthentication/SpotifyAuthentication.h>
+#import <SpotifyAudioPlayback/SpotifyAudioPlayback.h>
 
 #endif /* SpotifyBridgingHeader_h */

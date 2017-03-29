@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0820"
+   LastUpgradeVersion = "0700"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4CCB207C1D45563900C64D5B"
-               BuildableName = "Cleanup Whitespace"
-               BlueprintName = "Cleanup Whitespace"
-               ReferencedContainer = "container:Alamofire.xcodeproj">
+               BlueprintIdentifier = "E71C013414529C854B7FA9C05D43F7E3"
+               BuildableName = "Pods_FinalUniversalMusicProject.framework"
+               BlueprintName = "Pods-FinalUniversalMusicProject"
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,10 +45,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4CCB207C1D45563900C64D5B"
-            BuildableName = "Cleanup Whitespace"
-            BlueprintName = "Cleanup Whitespace"
-            ReferencedContainer = "container:Alamofire.xcodeproj">
+            BlueprintIdentifier = "E71C013414529C854B7FA9C05D43F7E3"
+            BuildableName = "Pods_FinalUniversalMusicProject.framework"
+            BlueprintName = "Pods-FinalUniversalMusicProject"
+            ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -60,15 +60,6 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4CCB207C1D45563900C64D5B"
-            BuildableName = "Cleanup Whitespace"
-            BlueprintName = "Cleanup Whitespace"
-            ReferencedContainer = "container:Alamofire.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
